@@ -4,11 +4,11 @@ by (Jan) [github.com/jankeromnes] & (Yann) [github.com/espadrine]
 
 ## data
 
-* `b: [h, v]` the board 
-* `h: [r ... r]` the rows of horizontal links
-* `v: [r ... r]` the rows of vertical links
-* `r: [p ... p]` the positions of links
-* `p: int` a position of a link
+* `B: [H, V]` the board 
+* `H: [R ... R]` the rows of horizontal links
+* `V: [R ... R]` the rows of vertical links
+* `R: [p ... P]` the positions of links
+* `P: int` a position of a link
 
 ## algorithms
 
