@@ -6,6 +6,10 @@ by (Jan) [github.com/jankeromnes] & (Yann) [github.com/espadrine]
 
 We use binary numbers to model how a square looks like:
 
-&nbsp;&nbsp;1    
-8 ◻ 2    
-&nbsp;&nbsp;4    
+    .......
+    ...1...   
+    .8.◻.2.   
+    ...4...
+    .......
+
+
